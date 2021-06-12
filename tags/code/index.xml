@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>code on Hello Friend NG</title>
+    <link>https://example.com/tags/code/</link>
+    <description>Recent content in code on Hello Friend NG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sat, 12 Jun 2021 17:56:46 +0700</lastBuildDate><atom:link href="https://example.com/tags/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello Nguyen Coca</title>
+      <link>https://example.com/posts/2021/06/hello-nguyen-coca/</link>
+      <pubDate>Sat, 12 Jun 2021 17:56:46 +0700</pubDate>
+      
+      <guid>https://example.com/posts/2021/06/hello-nguyen-coca/</guid>
+      <description>#As Sergey and I wrote in the original founders letter 11 years ago, “Google is not a conventional company. We do not intend to become one.” As part of that, we also said that you could expect us to make “smaller bets in areas that might seem very speculative or even strange when compared to our current businesses.” From the start, we’ve always strived to do more, and to do important and meaningful things with the resources we have.</description>
+    </item>
+    
+  </channel>
+</rss>
